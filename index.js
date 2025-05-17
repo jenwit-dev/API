@@ -19,7 +19,7 @@
 
 // HTTP Request using fetch instead of Postman
 
-const BASE_URL = "https://jsonplaceholder.typicode.com";
+// const BASE_URL = "https://jsonplaceholder.typicode.com";
 // 1. Get All
 // let endpoint = BASE_URL + "/posts";
 // let option = {
@@ -27,10 +27,10 @@ const BASE_URL = "https://jsonplaceholder.typicode.com";
 // };
 
 // 2. Get by ID
-let endpoint = BASE_URL + "/posts/20";
-let option = {
-  method: "GET",
-};
+// let endpoint = BASE_URL + "/posts/20";
+// let option = {
+//   method: "GET",
+// };
 
 // 3. Get comment
 // let endpoint = BASE_URL + "/posts/1/comments";
